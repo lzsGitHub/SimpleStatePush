@@ -6,7 +6,10 @@ for app state bar push
 ===
 * 利用`Notification`
 
-![gif](http://www.ali213.net/showbigpic.html?http://img1.ali213.net/glpic/2017/02/13/2017021355009699.jpg "嘿嘿")
+图片上传格式：`https://github.com/用户名/项目名/raw/分支/图片`
+===
+
+![gif](https://github.com/lzsGitHub/SimpleStatePush/raw/master/three215.jpg "嘿嘿")
 
 
 ```
